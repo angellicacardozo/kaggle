@@ -20,7 +20,7 @@ import helpers
 #*************************************************************************
 #   CONFIGURE PATHS
 #*************************************************************************
-root_path = "/Users/angellica/Documents/code/pessoal/machinelearning/kaggle/give_me_some_credit"
+root_path = "<your_path_here>/kaggle/give_me_some_credit"
 
 common_packages_path = root_path + "/stratified/packages"
 module_packages_path = root_path + "/packages"
